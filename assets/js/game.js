@@ -1,1 +1,3 @@
-window.alert("This is an alert! Javascipt is running!");
+function fight () {
+    window.alert("The fight has begun!");
+}
